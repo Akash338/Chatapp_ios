@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>685007018396-j149hfvr2p8lre1fd6ck6eu7htegn26o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.685007018396-j149hfvr2p8lre1fd6ck6eu7htegn26o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxmdN8uJKQU6-hO6d8NCuA_aSZD3Detzg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>685007018396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.akash.Chatapp</string>
+	<key>PROJECT_ID</key>
+	<string>fir-d2f3a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-d2f3a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:685007018396:ios:02b8de700517b20e9b5059</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-d2f3a.firebaseio.com</string>
+</dict>
+</plist>
